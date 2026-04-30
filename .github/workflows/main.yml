@@ -38,4 +38,4 @@ jobs:
 
       - name: Bước 3 - Xem link xác minh Agent
         run: |
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "dancayairdrop", "description": "dancayairdrop AI Agent"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "hhf23", "description": "hhf23 AI Agent"}'
